@@ -12,11 +12,11 @@ To test advanced deep learning architectures to optimize performance.
 To measure key metrics like accuracy, precision, recall, and F1-score for model comparison.
 To apply ensembling on classifcation models.
 Models G-Drive Link
-All Trained Models
+[All Trained Models](https://drive.google.com/drive/folders/13T2U6HAjufGfvqBXAJZeWL_TFMlaxhc8)
 
 Dataset
 DiaMOS Plant, is a dataset for diagnosis and monitoring plant disease, collected in the field, consisting of 3505 images, depicting 4 leaf diseases with 4 level of severity and 4 fruit stages.
-DiaMOS Plant Dataset.
+[DiaMOS Plant Dataset](https://zenodo.org/records/5557313).
 
 Group Members
 Milind Dadore
